@@ -47,11 +47,11 @@ Django Girls Colombia: [Facebook](https://www.facebook.com/djangogirlscolombia),
 
 ### Huila
 
-* Python Neiva: https://www.meetup.com/es/PythonNeiva/
+* Python Neiva: [Meetup](https://www.meetup.com/es/PythonNeiva/)
 
 ### Magdalena
 
-Python Santa Marta: [Meetup](https://www.meetup.com/python-santamarta/)
+* Python Santa Marta: [Meetup](https://www.meetup.com/python-santamarta/)
 
 ### Nariño
 

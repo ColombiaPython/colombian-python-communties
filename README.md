@@ -11,30 +11,60 @@ PyCon Colombia: [Facebook](https://www.facebook.com/pyconcolombia), [Twitter](ht
 
 Django Girls Colombia: [Facebook](https://www.facebook.com/djangogirlscolombia), [Twitter](https://twitter.com/djangogirlsco) 
 
-## City Communities:
 
-Django Bogotá: [Meetup](https://www.meetup.com/Django-Bogota/)
+## City Communities per Department:
 
-Python Medellín: [Meetup](https://www.meetup.com/Medellin-Python-y-Django-Meetup/), [Facebook](https://www.facebook.com/pythonmedellin/)
+### Antioquia
 
-Python Bucaramanga: [Meetup](https://www.meetup.com/PythonBucaramanga/), [Facebook](https://www.facebook.com/PythonBucaramanga/)
+* Python Medellín: [Meetup](https://www.meetup.com/Medellin-Python-y-Django-Meetup/), [Facebook](https://www.facebook.com/pythonmedellin/)
+* Pyladies Medellín: [Meetup](https://www.meetup.com/Python-Ladies-Medellin/), [Facebook](https://www.facebook.com/pyladiesmedellin/)
 
-Python Cali: [Meetup](https://www.meetup.com/Python-Cali/), [Facebook](https://www.facebook.com/pythoncali/), [Website](www.pythoncali.com)
+### Atlántico
 
-Pyladies Medellín: [Meetup](https://www.meetup.com/Python-Ladies-Medellin/), [Facebook](https://www.facebook.com/pyladiesmedellin/)
+* Python Barranquilla: [Meetup](https://www.meetup.com/pythonbaq/), [Facebook](https://www.facebook.com/groups/813920708682845/?ref=br_rs)
 
-Python Cúcuta: [Meetup](https://www.meetup.com/Python-Cucuta/)
+### Arauca
 
-Python Santa Marta: [Meetup](https://www.meetup.com/python-santamarta/)
+* Python Arauca: [Meetup](https://www.meetup.com/PythonArauca/)
 
-Python Barranquilla: [Meetup](https://www.meetup.com/pythonbaq/), [Facebook](https://www.facebook.com/groups/813920708682845/?ref=br_rs)
+### Bolívar
 
-PyData Bogotá: [Meetup](https://www.meetup.com/PyData-Bogota/)
+* Python Cartagena: [Meetup](https://www.meetup.com/es/Python-Django-CTG/)
 
-Python Arauca: [Meetup](https://www.meetup.com/PythonArauca/)
+### Boyacá
 
-Python Tunja: [Meetup](https://www.meetup.com/PythonTunja/)
+* Python Tunja: [Meetup](https://www.meetup.com/PythonTunja/)
 
-Python Popayán: [Facebook](https://www.facebook.com/pythonistapopayan/)
+### Cauca
 
-Python Pasto: [Meetup](https://www.meetup.com/Pasto-Python/)
+* Python Popayán: [Facebook](https://www.facebook.com/pythonistapopayan/)
+
+### Cundinamarca
+
+* Python Bogotá: [Meetup](https://www.meetup.com/es/pythoncolombia-bogota/)
+* Django Bogotá: [Meetup](https://www.meetup.com/Django-Bogota/)
+* PyData Bogotá: [Meetup](https://www.meetup.com/PyData-Bogota/)
+
+### Huila
+
+* Python Neiva: [Meetup](https://www.meetup.com/es/PythonNeiva/)
+
+### Magdalena
+
+* Python Santa Marta: [Meetup](https://www.meetup.com/python-santamarta/)
+
+### Nariño
+
+* Python Pasto: [Meetup](https://www.meetup.com/Pasto-Python/)
+
+### Norte de Santander
+
+* Python Cúcuta: [Meetup](https://www.meetup.com/Python-Cucuta/)
+
+### Santander
+
+* Python Bucaramanga: [Meetup](https://www.meetup.com/PythonBucaramanga/), [Facebook](https://www.facebook.com/PythonBucaramanga/), [Twitter](https://www.twitter.com/PyBuc/)
+
+### Valle del Cauca
+
+* Python Cali: [Meetup](https://www.meetup.com/Python-Cali/), [Facebook](https://www.facebook.com/pythoncali/), [Website](www.pythoncali.com)
